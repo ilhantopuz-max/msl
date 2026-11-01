@@ -1,0 +1,6 @@
+<resources>
+    <style name="Theme.OkuYazma" parent="android:Theme.Material.Light.NoActionBar">
+        <item name="android:statusBarColor">#FFF4F9</item>
+        <item name="android:windowLightStatusBar">true</item>
+    </style>
+</resources>
